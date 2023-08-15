@@ -1,0 +1,17 @@
+body{
+    background:rgb(28, 250, 213);
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    color:aliceblue;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    color: darkred;
+}
+img{
+    width: 250px;
+    margin-left: 350px;
+}
